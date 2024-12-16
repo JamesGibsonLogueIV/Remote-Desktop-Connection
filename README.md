@@ -4,7 +4,6 @@
 
 </p>
 
-<h1>Azure Virtual Machines - Creation/Deployment</h1>
 This tutorial outlines the creation and deployment of a virtual machine in Microsoft Azure in order to operate osticket<br />
 
 
