@@ -4,7 +4,7 @@
 
 </p>
 
-This tutorial outlines the creation and deployment of a virtual machine in Microsoft Azure in order to operate osticket<br />
+This tutorial shows how to use RDP to connect with a virtual machine<br />
 
 
 
@@ -24,10 +24,10 @@ This tutorial outlines the creation and deployment of a virtual machine in Micro
 - Computer or Laptop
 
 
-<h2>Installation Steps</h2>
+<h2>Connection Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/v2ev4d3.png" height="80%" width="80%"/>
+<img src="https://imgur.com/a/8WfGmQC" height="80%" width="80%"/>
 </p>
 <p>
 Once you are on the homescreen for Microsoft Azure, the first step is to click on virtual machines right underneath azure services. You can also type virtual machines into the search bar at the top. Select create and then select azure virtual machine.
