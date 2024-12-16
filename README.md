@@ -34,12 +34,12 @@ On the overview page of the virtual machine you created, copy the public IP addr
 <img src="https://imgur.com/OiWilPa.png" height="80%" width="80%"/>
 </p>
 <p>
-On the overview page of the virtual machine you created, copy the public IP address. We are going to need it to connect remotely to the virtual machine.
+Now, type in remote desktop connection or RDP in your search bar.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/fBzUs1i.png" height="80%" width="80%"/>
+<img src="https://imgur.com/V8txMfH.png" height="80%" width="80%"/>
 </p>
 
 1. The screen above shows the basics tab. Select your Azure subscription.
