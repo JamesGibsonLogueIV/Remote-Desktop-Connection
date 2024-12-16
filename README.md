@@ -27,7 +27,7 @@ This tutorial shows how to use RDP to connect with a virtual machine<br />
 <h2>Connection Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/8WfGmQC" height="80%" width="80%"/>
+<img src="https://imgur.com/a/8WfGmQC.png" height="80%" width="80%"/>
 </p>
 <p>
 Once you are on the homescreen for Microsoft Azure, the first step is to click on virtual machines right underneath azure services. You can also type virtual machines into the search bar at the top. Select create and then select azure virtual machine.
