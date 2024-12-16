@@ -26,7 +26,8 @@ This tutorial shows how to use RDP to connect with a virtual machine<br />
 
 <h2>Connection Steps</h2>
 
-<p>
+<p float="left">
+<img src="https://imgur.com/tcqwRXq.png" height="80%" width="80%"/>
 <img src="https://imgur.com/tcqwRXq.png" height="80%" width="80%"/>
 </p>
 <p>
