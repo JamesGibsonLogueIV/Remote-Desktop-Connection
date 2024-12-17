@@ -39,7 +39,7 @@ Now, type in remote desktop connection or RDP in your search bar.
 <br />
 
 <p>
-<img src="https://imgur.com/V8txMfH.png" height="80%" width="80%"/>
+<img src="https://imgur.com/DjM35b3.png" height="80%" width="80%"/>
 </p>
 
 1. The screen above shows the basics tab. Select your Azure subscription.
