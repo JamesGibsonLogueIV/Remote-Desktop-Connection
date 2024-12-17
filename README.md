@@ -42,8 +42,10 @@ Now, type in remote desktop connection or RDP in your search bar.
 <img src="https://imgur.com/DjM35b3.png" height="80%" width="80%"/>
 </p>
 
-<p>
+<p float="left">
 On the overview page of the virtual machine you created, copy the public IP address in the top right corner. We are going to need it to connect remotely to the virtual machine.
+<img src="https://imgur.com/czerqeF.png" height="80%" width="80%"/>
+<img src="https://imgur.com/10i9KaE.png" height="80%" width="80%"/>
 </p>
 
 <br />
