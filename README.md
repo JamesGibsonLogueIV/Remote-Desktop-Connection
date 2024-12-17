@@ -51,6 +51,18 @@ Now, type in remote desktop connection or RDP in your search bar.
 <img src="https://imgur.com/10i9KaE.png" height="80%" width="80%"/>
 </p>
 
+<p>
+ It might take a while to load, but eventually, you will connect to your virtual machine.
+</p>
+
+<p>
+<img src="https://imgur.com/CPzCtcK.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ In the next lesson, we will create a second virtual machine and network between them.
+</p>
+
 <br />
 
 
